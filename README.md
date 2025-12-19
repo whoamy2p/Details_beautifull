@@ -137,7 +137,7 @@ Modifica los colores en el CSS:
 
 ## 👤 Autor
 
-Proyecto creado como parte del portfolio de Kriptom.
+Proyecto creado como parte del portfolio de Whoamy2p.
 
 ---
 
